@@ -1,0 +1,11 @@
+- Singal Dokumenten mapping problem? -> use cases
+- Signale sind in X Datenbanken verteilt, über Interfaces muss zugeriffen werden, nicht über SQL -> 1 Table
+- Dokumente gehören in einen Kontext, liegen in verschiedenen DBs, dokumente müssen angezeigt werden und in ihnen muss navigiert werden können
+- Wie kann das linking abgebildet werden, 
+
+
+filter, services, class, loader, maven bundle plugin, exports, imports
+
+www.ops4j.org/project/pax/construct Pax Construct
+
+mit blue print services import und export
