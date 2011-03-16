@@ -9,3 +9,6 @@ filter, services, class, loader, maven bundle plugin, exports, imports
 www.ops4j.org/project/pax/construct Pax Construct
 
 mit blue print services import und export
+
+
+hello hello hello world!!!!
